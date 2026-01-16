@@ -11,7 +11,6 @@ Django REST Framework, JWT (simplejwt)
 
 PostgreSQL, Celery + Redis
 
-drf-spectacular (Swagger / Redoc)
 
 Docker & Docker Compose
 
