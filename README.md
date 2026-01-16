@@ -1,3 +1,4 @@
+# calendar-backend
 Calendar Backend API
 
 A Django REST API for managing users and calendar appointments with JWT authentication, role-based access, and appointment background notifications via Celery + Redis.
